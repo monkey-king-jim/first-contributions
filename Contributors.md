@@ -22,6 +22,7 @@
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Orinax Bulbaron] (https://github.com/Orinax)
+- [Julian Elmasry] (https://github.com/julian31186)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
